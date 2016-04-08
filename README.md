@@ -5,7 +5,7 @@
 
 ## Installation
 ```sh
-npm install @remobile/react-native-cache-image --save
+npm install @zss0512/react-native-cache-image --save
 ```
 ## Usage
 
